@@ -7,6 +7,7 @@ here is a small script file with which you can set proxy settings.
 First of all, the proxy settings are set in / etc / environment. In order for this to take effect, you must log out and log in. Therefore, please always run the script first if you need proxy settings.
 
 Then the proxy settings for the package manager are stored.
+Script works with packet managers: apt, pacman and yum.
 
 How to Install:
 1. Download set-proxy-v1.sh to a directory of your choice.
@@ -14,7 +15,7 @@ How to Install:
 3. Change username in line 182 to your user. *
 4. type chmod + x /directory/set-proxy-v1.sh
 
-* If you don't know what your user is like, enter "whoami" (without "") in the console.
+* If you don't know what your user is, enter "whoami" (without "") in the console.
 
 How to use:
 1. Open console
