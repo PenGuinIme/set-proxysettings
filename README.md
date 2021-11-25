@@ -10,8 +10,8 @@ Then the proxy settings for the package manager are stored.
 Script works with packet managers: apt, pacman and yum.
 
 How to Install:
-1. Download set-proxy-v1.sh to a directory of your choice.
-2. Open console
+1. Open console
+2. Download set-proxy-v1.sh with .git clone https://github.com/PenGuinIme/set-proxysettings.git
 3. Change username in line 182 to your user. *
 4. type chmod + x /directory/set-proxy-v1.sh
 
