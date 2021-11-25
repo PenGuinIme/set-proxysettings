@@ -1,6 +1,8 @@
 #!/usr/bin/ bash
 # Sets proxy settings.
-# Run using `source` command. apt-get proxy settings requires sudo privileges.
+# Run using `source` or `bash´ command. apt-get proxy settings requires sudo privileges.
+# created by PenGuinIme
+# Inspired by nathanchrs
 
 #Query
 read -s -n 1 -p"Proxy y/n:
